@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://portal.feixun.com.cn/app/Portal.ipa</string>
+					<string>https://github.com/feng123321li/portal/blob/master/Portal.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
